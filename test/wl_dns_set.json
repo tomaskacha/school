@@ -1,0 +1,10 @@
+{
+    "action": "dns_wl_set",
+    "data": {
+      "wl_domain": [
+        "www.seznam.cz",
+        "www.centrum.cz"
+      ]
+    }
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "action": "dns_wl_del",
+    "data": {
+      "wl_domain": [
+        "www.seznam.cz"
+      ]
+    }
+  }
+  
